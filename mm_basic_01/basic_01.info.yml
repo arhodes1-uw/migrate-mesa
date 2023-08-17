@@ -1,0 +1,8 @@
+name: Migrate MESA, Basic 01
+core_version_requirement: ^8 || ^9 || ^10
+description: 'Super basic migration test'
+package: Migrate MESA
+type: module
+core: 8.x
+dependencies:
+  - drupal:migrate
